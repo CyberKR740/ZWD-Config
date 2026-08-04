@@ -1,12 +1,12 @@
 #!/usr/bin/evn python3
 # encoding: utf-8
 
-__author__ = 'Zwdeff'
+__author__ ='altoArthur'
 __version__ = '1.5'
 
 # [Github] https://www.github.com/GMagNLL
-# [Telegram - Channel] https://telegram.me/ZWDChannel
-# [Telegram - PV] @nZwdeff
+# [Telegram - Channell https://t.me/devenuscunlink
+# [Telegram - PV] @SeichMachine740
 # 
 # [Unoficial]
 #   Progamas utilizados, fora a Dependencia python. que nao foram escrito por mim.
