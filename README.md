@@ -4,7 +4,7 @@
   <table>
     <tr>
       <td width="100px" class="main2"><b>Ferramenta:</b></td>
-      <td width="780px" class="main2"><b>ZWDConfig 1.5</b></td>
+      <td width="780px" class="main2"><b>ZWDConfig 0.1</b></td>
     </tr>
     <tr>
       <td width="100px" class="main2"><b>Autor:</b></td>
