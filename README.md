@@ -8,7 +8,7 @@
     </tr>
     <tr>
       <td width="100px" class="main2"><b>Autor:</b></td>
-      <td width="780px">Zwdeff</td>
+      <td width="780px">AltoArthur</td>
     </tr>
     <tr>
       <td width="100px" class="main2"><b>Versão:</b></td>
@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td width="100px" class="main2"><b>Contato Privado:</b></td>
-      <td width="780px">@nZwdeff</td>
+      <td width="780px">@SeichMachine740</td>
     </tr>
     <tr>
       <td width="100px" class="main2">&#9733; <b>Descrição:</b></td>
