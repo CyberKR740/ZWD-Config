@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 __author__ ='altoArthur'
-__version__ = '1.5'
+__version__ = '0.1'
 
 # [Github] https://www.github.com/CyberKR740
 # [Telegram - Channell https://t.me/devenuscunlink
