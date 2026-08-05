@@ -4,7 +4,7 @@
 __author__ ='altoArthur'
 __version__ = '1.5'
 
-# [Github] https://www.github.com/GMagNLL
+# [Github] https://www.github.com/CyberKR740
 # [Telegram - Channell https://t.me/devenuscunlink
 # [Telegram - PV] @SeichMachine740
 # 
